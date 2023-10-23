@@ -31,6 +31,6 @@ To check the available cricket match markets, simply type `/market` in the chat.
 
 ## Support and Assistance
 
-If you have any questions or need assistance, feel free to reach out to us through the bot. We're here to help and ensure you have a great betting experience.
+If you have any questions or need assistance, feel free to reach out to us through telegram @joelvarghese6. We're here to help and ensure you have a great betting experience.
 
 Happy Betting!
