@@ -13,7 +13,7 @@ Before getting started, make sure you have the following prerequisites:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/cricket-betting-bot.git
+   git clone https://github.com/joelvarghese6/cricket-betting-bot.git
 
 2. **Navigate to the Project Directory**:
 
