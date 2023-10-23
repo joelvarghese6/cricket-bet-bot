@@ -7,7 +7,6 @@ Welcome to the Telegram Cricket Betting Bot! This bot allows users to place bets
 Before getting started, make sure you have the following prerequisites:
 
 - [Node.js](https://nodejs.org/) installed on your system.
-- A Telegram Bot Token. You can obtain one by creating a bot with the [BotFather on Telegram](https://core.telegram.org/bots#botfather).
 
 ## Installation
 
