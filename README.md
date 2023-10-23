@@ -2,6 +2,39 @@
 
 Welcome to the Telegram Cricket Betting Bot! This bot allows users to place bets on cricket matches. Here's an overview of how the bot works and how to use it:
 
+## Prerequisites
+
+Before getting started, make sure you have the following prerequisites:
+
+- [Node.js](https://nodejs.org/) installed on your system.
+- A Telegram Bot Token. You can obtain one by creating a bot with the [BotFather on Telegram](https://core.telegram.org/bots#botfather).
+
+## Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/cricket-betting-bot.git
+
+2. **Navigate to the Project Directory**:
+
+   ```bash
+   cd cricket-betting-bot
+3. **Install Dependencies**:
+
+   ```bash
+   npm install
+4. **Create a Configuration File**:
+   Create a .env file in the project directory and add your Telegram Bot Token and any other configuration variables:
+
+   ```bash
+   TELEGRAM_BOT_TOKEN=your-bot-token
+5. **Start the Bot**:
+  Run the bot using the following command:
+
+   ```bash
+   npm start
+
 ## Getting Started
 
 1. **Start a Chat**: Begin by starting a chat with the bot at [t.me/cricket_bet_bot](https://t.me/cricket_bet_bot).
